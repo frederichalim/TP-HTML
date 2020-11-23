@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset = "utf-8">
+<title> <!--Donne le titre de la page web -->
+<h1> TP1 programmation web </h1>
+</title>
+</head>
+<body>
+<img src="C:\Users\frede\Desktop\TP HTML\chaton.jpg" alt="texte alternatif" />).
+<a href=" C:\Users\frede\Desktop\TP HTML\TP1.2 html (17-11-20).html"> page suivante </a>
+<br>
+
+</body>
+</html>
